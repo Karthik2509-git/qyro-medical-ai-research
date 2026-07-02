@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository in academic work, please cite it as below."
+authors:
+  - family-names: Vanapalli
+    given-names: Karthik
+    affiliation: "SRM Institute of Science and Technology"
+title: "QYRO Medical AI Research"
+version: 1.0.0
+date-released: 2026-07-02
+url: "https://github.com/Karthik2509-git/qyro-medical-ai-research"
+repository-code: "https://github.com/Karthik2509-git/qyro-medical-ai-research"
+keywords:
+  - "Medical AI"
+  - "Dermatology"
+  - "Computer Vision"
+  - "YOLO-based Object Detection"

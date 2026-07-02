@@ -1,0 +1,28 @@
+# Gitignore for QYRO Medical AI public research documentation repository
+
+# Ignore all proprietary source code
+qyro_backend/
+qyro_frontend/
+clinical_inference.py
+check_environment.py
+train_yolo_baseline.py
+train_yolo_v2.py
+evaluation/
+
+# Ignore datasets and weights
+datasets/
+yolo11s.pt
+yolo26n.pt
+*.pt
+
+# Ignore outputs, runs and cache
+runs/
+checkpoints/
+cache/
+*.db
+*.sqlite
+.venv/
+venv/
+*.log
+exports/
+temp_research_repo/
